@@ -1,0 +1,156 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+  font-family: Arial, Helvetica, sans-serif;
+}
+header {
+  background-image: url("./../imgs/bg2.png");
+  height: 300px;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
+  color: white;
+  padding: 50px;
+  text-align: center;
+  height: 60vh;
+}
+.header-text {
+  max-width: 800px;
+  margin: 50px auto;
+}
+.btn {
+  margin: 20px;
+  display: inline-block;
+  background-color: #333;
+  padding: 20px;
+  color: white;
+  border: 1px solid #666;
+  text-decoration: none;
+  height: 65px;
+  width: 160px;
+  font-size: 1.2rem;
+}
+
+.web-aplication-title {
+  text-align: center;
+  color: #333;
+  font-size: 2rem;
+  margin-bottom: 30px;
+}
+
+.web-aplication {
+  background-color: #eaeaea;
+  font-size: 0;
+}
+.web-aplication-text {
+  margin: 0 auto;
+  text-align: center;
+  height: 100px;
+}
+
+.web-aplication-info {
+  font-size: 1.15rem;
+  width: 50%;
+  display: inline-block;
+  vertical-align: text-top;
+  height: 200px;
+  color: #333;
+  column-count: 2;
+  text-align: center;
+}
+.card-content {
+  font-size: 1,5rem;
+  text-align: center;
+}
+h3 {
+    font-size: 1.6rem;
+    margin: 50px 0;
+    color: #333;
+}
+h1{
+  margin: 15px;
+}
+img {
+  width: 270px;
+  height: 150px;
+  object-fit: cover;
+  text-align: center;
+}
+.card {
+  width: 270px;
+  height: 470px;
+  font-size: 0;
+  display: inline-block;
+  margin: 20px;
+  background-color: whitesmoke;
+}
+.card-text{
+  line-height: 1.8;
+  font-size: 1.1rem;
+}
+article {
+  text-align: center;
+  background-color: #333;
+}
+.title {
+  font-size: 2.2rem;
+}
+.digital-needs {
+  text-align: center;
+}
+.digital-needs-title {
+  margin: 50px;
+  color: #333;
+  font-size: 1.6rem;
+  
+}
+
+.digital-needs-text {
+  margin: 50px;
+  color: #333;
+  text-align: center;
+  font-size: 1.2rem;
+}
+.company, .contacts {
+  text-align: center;
+  width: 50%;
+  display: inline-block;
+  vertical-align: bottom;
+  background-color: #333;
+
+}
+.footer-class {
+  display: inline;
+  color: whitesmoke;
+  font-size: 0;
+}
+.contacts{
+  background-color: #2690d4;
+}
+.footer-text {
+    font-size: 1.2rem;
+    margin: 50px;
+}
+.footer-title {
+    font-size: 1.8rem;
+    margin: 50px;
+} 
+
+
+.end {
+  background-color: black; 
+  font-size: 0;
+}
+.end-first, .end-second {
+  display:inline-block ;
+  width: 50%;
+  text-align: center;
+}
+.end-text {
+  font-size: 1.2rem;
+  display: inline-block;
+  margin: 40px 0;
+}
